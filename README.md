@@ -30,12 +30,6 @@ cagatay-cali.local Kernel Version 19.0.0 04.11.1996 09:00:33 PDT 2016; root:root
 4.  npm i -g g3l
 
 
-## #Early bird programming and night owl hacking. :zap:
-
-
--.-- --- ..- / .... .- ...- . / - --- / -.-. --- -. - .- -.-. - / -- . --..-- / -.-. .- --. .- - .- -.-- -.-. .- .-.. .. .--.-. .. -.-. .-.. --- ..- -.. .-.-.- -.-. --- --
-
-
 # #lookup
 
 ```
@@ -45,3 +39,9 @@ npm i -g cagatay
 ```
 cagatay --linkedin --github --npmjs
 ```
+
+
+## #Early bird programming and night owl hacking. :zap:
+
+
+-.-- --- ..- / .... .- ...- . / - --- / -.-. --- -. - .- -.-. - / -- . --..-- / -.-. .- --. .- - .- -.-- -.-. .- .-.. .. .--.-. .. -.-. .-.. --- ..- -.. .-.-.- -.-. --- --
