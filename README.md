@@ -41,7 +41,7 @@ cagatay --linkedin --github --npmjs
 ```
 
 
-## #Early bird programming and night owl hacking. :zap:
+## Early bird programming and night owl hacking. :zap:
 
 
 -.-- --- ..- / .... .- ...- . / - --- / -.-. --- -. - .- -.-. - / -- . --..-- / -.-. .- --. .- - .- -.-- -.-. .- .-.. .. .--.-. .. -.-. .-.. --- ..- -.. .-.-.- -.-. --- --
