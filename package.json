@@ -1,0 +1,44 @@
+{
+  "name": "cagatay",
+  "version": "19.0.0",
+  "description": "About me!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagataycali/cagatay.git"
+  },
+  "keywords": [
+    "çağatay",
+    "çalı",
+    "cagatay",
+    "cali",
+    "cagatay",
+    "cali",
+    "movielala",
+    "software",
+    "engineer",
+    "cagatay",
+    "cagatay",
+    "movielala",
+    "silicon",
+    "valley"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/cagatay/issues"
+  },
+  "homepage": "https://github.com/cagataycali/cagatay#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "feedsub": "^0.3.0",
+    "node-emoji": "^1.4.1",
+    "node-notifier": "^4.6.1",
+    "opn": "^4.0.2"
+  }
+}
