@@ -4,7 +4,10 @@
   "description": "About me!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
+  },
+  "bin": {
+    "cagatay": "./index.js"
   },
   "repository": {
     "type": "git",
@@ -36,7 +39,6 @@
     "async": "^2.0.1",
     "colors": "^1.1.2",
     "commander": "^2.9.0",
-    "feedsub": "^0.3.0",
     "node-emoji": "^1.4.1",
     "node-notifier": "^4.6.1",
     "opn": "^4.0.2"
