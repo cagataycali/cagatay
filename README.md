@@ -27,7 +27,7 @@ cagatay-cali.local Kernel Version 19.0.0 04.11.1996 09:00:33 PDT 2016; root:root
 1.  symfony new velibis
 2.  ./hello.cr
 3.  service nginx start onion_website
-4.  npm i -g g3l
+4.  npm i -g cagatay
 
 
 # #lookup
