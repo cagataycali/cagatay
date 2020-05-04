@@ -4,7 +4,9 @@
   "description": "About me!",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "bin": {
     "cagatay": "./index.js"
@@ -41,6 +43,8 @@
     "commander": "^2.9.0",
     "node-emoji": "^1.4.1",
     "node-notifier": "^4.6.1",
-    "opn": "^4.0.2"
-  }
+    "opn": "^4.0.2",
+    "snyk": "^1.317.0"
+  },
+  "snyk": true
 }
