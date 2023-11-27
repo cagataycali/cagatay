@@ -40,7 +40,7 @@
     "colors": "^1.1.2",
     "commander": "^2.9.0",
     "node-emoji": "^1.4.1",
-    "node-notifier": "^4.6.1",
+    "node-notifier": "^5.0.0",
     "opn": "^4.0.2"
   }
 }
